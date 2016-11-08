@@ -6,6 +6,7 @@ public class PushPrint {
 		System.out.println("Add Java class File Push"); 
 		System.out.println("World with 365");
 		System.out.println("local master!");
+		System.out.println("remote master");
 	}
 
 }
